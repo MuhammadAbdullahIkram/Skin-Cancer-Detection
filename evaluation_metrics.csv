@@ -1,0 +1,2 @@
+Model,Dataset,Number of Classes,Test Samples,Test Accuracy,Macro F1-Score,Weighted F1-Score
+MobileNetV2,HAM10000,7,1503,0.6574,0.4612,0.6892
